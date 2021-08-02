@@ -1,4 +1,4 @@
-# data-analysis-course-final-project
+# data-analysis-course-final-project-with-R
 This is the final project in data analysis courseI took in Tel- Aviv University, graded with the score of 98.
 
 The data for this project took from 'TidyTuesday' (a weekly data project in R from the R4DS online learning community), which took place in July 2020. The data comes from the Coffee Quality Database courtesy of Buzzfeed Data Scientist James LeDoux. The original data can be found on James' github.
